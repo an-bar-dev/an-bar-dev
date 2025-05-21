@@ -15,16 +15,16 @@ I'm a passionate full-stack developer with a strong focus on scalable web archit
 ## 🛠️ Tech Stack
 
 **Languages & Tools**  
-`JavaScript`, `TypeScript`, `PHP`, `Kotlin`, `Python`, `SQL`, `HTML`, `CSS`
+`JavaScript` · `TypeScript` · `PHP` · `Kotlin` · `Python` · `SQL` · `HTML` · `CSS`
 
 **Frontend**  
-React · Next.js · Vue · Nuxt.js · Tailwind CSS · GSAP · Framer Motion
+`React` · `Next.js` · `Vue` · `Nuxt.js` · `Tailwind CSS` · `GSAP` · `Framer Motion`
 
 **Backend**  
-PHP · Symfony · Laravel · Python · MySQL
+`PHP` · `Symfony` · `Laravel` · `Python` · `MySQL`
 
 **Tools**  
-JetBrains Suite (IntelliJ, WebStorm, PhpStorm, PyCharm) · Git · ClickUp · Asana · Figma · Jira
+`JetBrains Suite (IntelliJ, WebStorm, PhpStorm, PyCharm)` · `Git` · `ClickUp` · `Asana` · `Figma` · `Jira`
 
 ## 🌱 Currently Learning
 
