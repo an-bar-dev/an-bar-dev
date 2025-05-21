@@ -1,16 +1,42 @@
-### Hi there 👋
+# 👋 Hi, I'm Andrej Barna
 
-<!--
-**an-bar-dev/an-bar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer | AI Integration Engineer**  
+📍 Novi Sad, Serbia
 
-Here are some ideas to get you started:
+I'm a passionate full-stack developer with a strong focus on scalable web architectures, CMS customization, and AI-powered solutions. With a background in both frontend and backend development, I’ve worked on everything from custom CMS themes and microservices to startup apps and government-funded websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+
+- 🔧 **Full-Stack Development**: Building efficient, performant web applications with tools like **Next.js, Nuxt.js, Symfony, Laravel, Drupal**, and more.
+- 🌐 **AI Integration**: Creating modern AI-driven web solutions.
+- 🧠 **Team Leadership**: Managing teams and aligning tech solutions with business needs.
+- 🧩 **Freelance Projects**: Delivering customized solutions from the ground up with clean code and clear communication.
+
+## 🛠️ Tech Stack
+
+**Languages & Tools**  
+`JavaScript`, `TypeScript`, `PHP`, `Kotlin`, `Python`, `SQL`, `HTML`, `CSS`
+
+**Frontend**  
+React · Next.js · Vue · Nuxt.js · Tailwind CSS · GSAP · Framer Motion
+
+**Backend**  
+PHP · Symfony · Laravel · Python · MySQL
+
+**Tools**  
+JetBrains Suite (IntelliJ, WebStorm, PhpStorm, PyCharm) · Git · ClickUp · Asana · Figma · Jira
+
+## 🌱 Currently Learning
+
+- Advanced AI integration into real-world SaaS products
+- Building scalable systems with cloud-native technologies
+
+## 🧩 Featured Projects
+
+- [**Where is Kevin?**](#) – AI-powered travel assistant
+- [**SaaS Scheduling Service**](https://demo.barber-shop.rs) – Personal side project used by local businesses
+
+## 📫 Get in Touch
+
+Feel free to reach out if you'd like to collaborate or just talk tech!  
+📧 andrej.barna.development@gmail.com  
